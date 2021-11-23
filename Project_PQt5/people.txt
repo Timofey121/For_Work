@@ -1,0 +1,3 @@
+Пользователи:
+
+Новый пользователь: login - ADMIN; password - ADMIN12
