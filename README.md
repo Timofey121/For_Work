@@ -1,17 +1,17 @@
 # For_Work
-Здравствуйте, этот репозиторий был создан, для чтобы посмотреть мои работы, мои трудовые навыки.
-Опыт работы с Python, С++, создание сайтов на Flask(с использованием html, css, Bootstrap), боты Telegram(aiogram, telebot),  работа с базами данных (PostgreSQL, SQLite, MySQL), парсинг сайтов - сбор информации с сайта(Bs4, Selenium, json, API), работа с оконными приложениями(PyQt5 и т. д. ), exe-файлами.
-Вот небольшой список недавно выполненных проектов, остальные скину при непосредственной работой:
-1) Телеграмм бот для школьников по поиску, подготовке(на стадии доработки) и напоминании по олимпиадам (с
-использованием aiogram, PostgreSQL, selenium, Bs4)
-2) Телеграмм бот, созданный для работы с Wildberries(для фиксирования ставки по рекламе, умный кликер для ставок по рекламе) -> (aiogram, PostgreSQL, selenium, Bs4)
-2) Собственный сайт-резюме (с использованием html, css, Bootstrap, Flask)
-3) Телеграмм Бот для с использованием парсинга сайтов и бд (aiogram + MySql + BeautifulSoup + selenium)
-4) Сбор информации о человеке по имени в вк(selenium + cookies + MySql + Bs4), также отправка сообщения этому человеку
-5) Отправка человеку по заданному имени сообщение - Mamba (selenium + cookies + Bs4)
-6) Оставить комент и лайк этого сообщения Яндекс Дзен(selenium + cookies + Bs4)
-7) Оставить комент под видео под определенными видео YouTube (API)
-8) Face Recognition (распознование лица человека в видео или камере по данному фото)
-9) Парсинг сайта с последующим заполнением его в Excel (csv, xlsx, json)
-10) Оконное приложение, что-то по типу слежки за своими тратами (PyQt5 + sqlite3 + asyncio)
-11) Парсинг первых 10 или более твитов определенного человека и отправкой этой информации в pdf
+Hello, this repository was created to view my work, my work skills.
+Experience working with Python, C++, creating websites on Flask (using html, css, Bootstrap), Telegram bots (aiogram, telebot), working with databases (PostgreSQL, SQLite, MySQL), parsing sites - collecting information from the site (Bs4, Selenium, json, API), work with windowed applications (PyQt5, etc.), exe files.
+Here is a small list of recently completed projects, the rest I will throw off with direct work:
+1) Telegram bot for schoolchildren on search, preparation (at the stage of completion) and reminders for Olympiads (
+using aiogram, PostgreSQL, selenium, Bs4)
+2) Telegram bot created to work with Wildberries (for fixing advertising rates, smart clicker for advertising rates) -> (aiogram, PostgreSQL, selenium, Bs4)
+2) Own resume website (using html, css, Bootstrap, Flask)
+3) Telegram Bot for using parsing sites and databases (aiogram + MySQL + BeautifulSoup + selenium)
+4) Collecting information about a person named in VK (selenium + cookies + MySQL + Bs4), also sending a message to this person
+5) Sending a message to a person by a given name - Mamba (selenium + cookies + Bs4)
+6) Leave a comment and like this message Yandex Zen (selenium + cookies + Bs4)
+7) Leave a comment under the video under certain YouTube videos (API)
+8) Face Recognition (recognition of a person's face in a video or camera based on this photo)
+9) Parsing the site and then filling it in Excel (csv, xlsx, json)
+10) A windowed application, something like tracking your spending (PyQt5 + sqlite3 + asyncio)
+11) Parsing the first 10 or more tweets of a certain person and sending this information to pdf
