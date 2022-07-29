@@ -17,5 +17,5 @@ pip install -r requirements.txt
 ```
 
 3) To a file urls.txt there are links to pages from which you need to collect site ratings
-4) Then you can run the main file - main.py
 
+4) Then you can run the main file - main.py
