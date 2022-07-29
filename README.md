@@ -27,4 +27,6 @@ I am a Python Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 
 - :zap: In my free time, I study new aspects in programming.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox: Thank me: <a href="https://boosty.to/timofey121/single-payment/donation/192650?share=target_link" alt="Donate"><img src="https://user-images.githubusercontent.com/77741432/181796619-98d0ee92-0a58-4eb8-80be-58337e58c47a.png" width="150" height="40"/></a>
+
+
