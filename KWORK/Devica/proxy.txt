@@ -1,1 +1,0 @@
-Host:PORT(htpps://2131.342:342);login_in_proxy;password_in_proxy
