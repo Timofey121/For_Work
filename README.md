@@ -23,7 +23,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Python Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a Python Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> from Russia.
 - :telescope: I specialize in Parsing websites, Telegram bots and working with DataBases.
 
 - :seedling: Exploring Technical Content Writing.
