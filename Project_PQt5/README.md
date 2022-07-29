@@ -1,13 +1,13 @@
-## Бюджет
+## Budget
 
 ## PyQt5
 
-Многие люди не умеют правильно распределять свои деньги, из-за чего появляются проблемы. Мое оконное приложение поможет
-вам в этом. То есть Вы можете ввести сумму, которая доступна Вам на месяц с вычитам вынужденных трат, в зависимоти от
-этой суммы, будет высчитана сумма, котоая будет средняя в день. Также будет доступен календарь, в которой можно будет
-ввести какие-то покупки в этот день, и потом посчитать уложились ли Вы в среднюю сумму в день, позже можно посмотреть
-эти покупки!
+Many people do not know how to properly allocate their money, which causes problems. My window application will help
+you with this. That is, you can enter the amount that is available to you for a month with deduction of forced expenses, depending on
+this amount, the amount will be calculated, which will be the average per day. There will also be a calendar available in which you can
+enter some purchases on this day, and then calculate whether you have met the average amount per day, later you can view
+these purchases!
 
-## Как открыть Exe?
+## How do I open the Exe?
 
-Скачиваете файл по ссылке: https://disk.yandex.ru/d/T_yDeIEXl1VZhw, добавляете их в одну папку, и запускаете .exe 
+Download the file from the link: https://disk .yandex.ru/d/T_yDeIEXl1VZhw , add them to one folder, and run .exe
