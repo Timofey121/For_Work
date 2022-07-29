@@ -2,9 +2,6 @@
   Welcome you
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
----
-
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76118af97439be460649554f1d97648f6fbc0e80b59e&rid=giphy.gif&ct=g" width="550"/>
 </div>
