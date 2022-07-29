@@ -1,7 +1,12 @@
+<h1 align="center" font-size="14px">
+  Welcome you
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76118af97439be460649554f1d97648f6fbc0e80b59e&rid=giphy.gif&ct=g" width="550"/>
 </div>
 <p>&#160;</p>
+<p align="center">Communication methods</p>
 <div id="badges" align="center">
   </a>
   <a href="https://t.me/Timofey1566">
@@ -14,10 +19,8 @@
     <img src="https://media3.giphy.com/media/vrmRrzZdMqEvnHrYZ1/giphy.gif?cid=ecf05e47u1hoio6q4l810ln1vyymofqmiaiczd0oc4b6rwxi&rid=giphy.gif&ct=g" width="130" alt="Kwork"/>
   </a>
 </div>
-<h1 align="center" font-size="14px">
-  Welcome you
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
+---
 
 ### :woman_technologist: About Me :
 I am a Python Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
