@@ -1,8 +1,8 @@
-# Данные для прокси
-PROXY = ["45.154.160.178:62168"]
-login = "jghvRpPX"
-password = "Y8Mzqkxa"
+# Proxy data
+PROXY = ["", ""]
+login = ""
+password = ""
 
-# Данные для входа в mamba.ru
-login_mamba = "nezatykaev@yandex.ru"
-password_mamba = "Vd9CbWgG"
+# Login details mamba.ru
+login_mamba = ""
+password_mamba = ""

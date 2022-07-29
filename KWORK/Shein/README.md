@@ -16,5 +16,5 @@ cd Shein
 pip install -r requirements.txt
 ```
 
-4) Then you can run the main file - main.py
+3) Then you can run the main file - main.py
 

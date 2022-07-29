@@ -1,1 +1,1 @@
-Логин;Пароль
+Login;Password

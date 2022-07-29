@@ -6,7 +6,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 
-stolb = ['Ссылка на сайт', 'Количество посетителей за месяц', 'Долю трафика']
+stolb = ['Website link', 'Number of visitors per month', 'Traffic share']
 cur_time = datetime.datetime.now().strftime("%d_%m_%Y_%H_%M")
 
 c = 0

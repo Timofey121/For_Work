@@ -20,10 +20,10 @@ pip install -r requirements.txt
 3) In the file proxy.txt you need to specify a Proxy
 
 4) In the file proxy.txt you need to specify the login and password from Vkontakte, from where the mailing will take
-   place
+   place. Also in the file Start.py in the 20 - 25 line, specify the data to connect to the database
 
 5) Then you can run the main file - Start.py
 
 ---
 ## Note:
-The people_vk file will contain the ids of the people who received the newsletter
+The girl_mamba file will contain the people who received the newsletter.
