@@ -2,7 +2,7 @@
 
 This project was created to upload the news of Dzen_News and information about them in the DataBase
 
-## Installation from sources
+## Installation
 
 1) Let's go to the project directory
 

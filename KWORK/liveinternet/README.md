@@ -2,7 +2,7 @@
 
 This project was created to upload the rating of sites and information about them in the format .csv
 
-## Installation from sources
+## Installation
 
 1) Let's go to the project directory
 

@@ -11,3 +11,19 @@ these purchases!
 ## How do I open the Exe?
 
 Download the file from the link: https://disk .yandex.ru/d/T_yDeIEXl1VZhw , add them to one folder, and run .exe
+
+## Installation
+1) Let's go to the project directory
+
+```sh
+cd Project_PQt5
+```
+
+2) Install the necessary dependencies
+
+```sh
+pip install -r requirements.txt
+```
+
+3) Then you can run the main file - Budget.py
+

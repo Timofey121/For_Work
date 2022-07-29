@@ -2,7 +2,7 @@
 
 This project was created for a small mailing of the necessary information in Mamba.
 
-## Installation from sources
+## Installation
 
 1) Let's go to the project directory
 

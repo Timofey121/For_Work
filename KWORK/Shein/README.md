@@ -2,7 +2,7 @@
 
 This project was created to unload goods from the Shein online store in the form of .csv
 
-## Installation from sources
+## Installation
 
 1) Let's go to the project directory
 

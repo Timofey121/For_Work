@@ -3,7 +3,7 @@
 This project was created for a small mailing of the necessary information in Vkontakte to certain people, by filters,
 that is, by a certain name or age + filling in this person in the database
 
-## Installation from sources
+## Installation
 
 1) Let's go to the project directory
 
