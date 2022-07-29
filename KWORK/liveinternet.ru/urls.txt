@@ -1,0 +1,5 @@
+https://www.liveinternet.ru/rating/ru/#period=month;geo=ru;group=auto;page=1
+https://www.liveinternet.ru/rating/ru/#period=month;geo=ru;group=auto;page=2
+https://www.liveinternet.ru/rating/ru/#period=month;geo=ru;group=auto;page=3
+https://www.liveinternet.ru/rating/ru/#period=month;geo=ru;group=auto;page=4
+https://www.liveinternet.ru/rating/ru/#period=month;geo=ru;group=auto;page=5
